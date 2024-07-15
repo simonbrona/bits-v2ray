@@ -8,4 +8,4 @@ Simple V2Ray Cloudflare Workers with Custom Proxy & Vless Vmess Trojan Agregator
  4. Edit this `README.md` file, then find and replace this button url bellow with yours `https://github.com/simonbrona/bits-v2ray` then save it.
  4. then press `Deploy With Workers` and follow the instruction
 
-[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/bitscoid/bits-v2ray)
+[![Deploy to Cloudflare Workers](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/simonbrona/bits-v2ray)
